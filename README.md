@@ -11,7 +11,7 @@
 
 - 🌍 I'm based in **Karachi, Pakistan**
 - 🧠 Currently learning **Web Development at Zaitoon Ashraf IT Park**
-- 💻 Focusing on **HTML, CSS, GitHub, and Modern UI Design**
+- 💻 Focusing on **HTML, CSS, JavaScript, GitHub, and Modern UI Design**
 - 💬 Ask me about **Frontend Projects, Clean UI, and Styling Tips**
 - 📫 Reach me at: `mahmed030888@gmail.com` 
 - 🌟 Always ready to learn, build, and collaborate!
@@ -23,6 +23,8 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
