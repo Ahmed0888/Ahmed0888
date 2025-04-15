@@ -13,7 +13,7 @@
 - 🧠 Currently learning **Web Development at Zaitoon Ashraf IT Park**
 - 💻 Focusing on **HTML, CSS, GitHub, and Modern UI Design**
 - 💬 Ask me about **Frontend Projects, Clean UI, and Styling Tips**
-- 📫 Reach me at: `youremail@gmail.com` *(apna email yahan daalo)*
+- 📫 Reach me at: `mahmed030888@gmail.com` 
 - 🌟 Always ready to learn, build, and collaborate!
 
 ---
@@ -50,9 +50,9 @@
 
 ### 📬 Connect With Me:
 
-- 📧 Email: [youremail@gmail.com](mailto:youremail@gmail.com)
-- 💼 LinkedIn: *(Add your link here if available)*
-- 🌍 Portfolio: *(Coming Soon — we’ll make it together)*
+- 📧 Email: [mahmed030888@gmail.com](mailto:mahmed030888@gmail.com)
+- 💼 LinkedIn: *(Coming Soon!)*
+- 🌍 Portfolio: *(Coming Soon!)*
 
 ---
 
