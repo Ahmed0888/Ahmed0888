@@ -61,7 +61,7 @@ I'm committed to writing **clean code**, creating **modern UIs**, and continuous
 
 ### 💬 Quick Facts About Me
 
-- 🔭 I’m currently working on improving my **frontend skills**
+- 🔭 I’m currently working on improving my **frontend & Backend Skills**
 - 🌱 Learning **UI/UX design**, **Responsive Design**, and **GitHub workflow**
 - 🤝 Open to collaborating on **web design projects** and **open-source contributions**
 - 💬 Ask me about **HTML layouts**, **CSS styling**, or **JavaScript basics**
