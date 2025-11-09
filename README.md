@@ -9,7 +9,7 @@
 
 ### 💡 Who Am I?
 
-Hi, I'm **M. Ahmed**, a passionate **Full Stack Developer** based in **Karachi, Pakistan**. I'm currently learning modern **web development technologies** at **Zaitoon Ashraf IT Park**, where I focus on building clean, responsive, and user-friendly interfaces using **HTML, CSS, and JavaScript**.
+Hi, I'm **M. Ahmed**, a passionate **Full Stack Developer** based in **Karachi, Pakistan**. I'm currently learning modern **web development technologies** at **Zaitoon Ashraf IT Park**, where I focus on building clean, responsive, and user-friendly interfaces using **HTML, CSS,Twailwind Css Or Bootstrap and JavaScript**.
 
 I'm committed to writing **clean code**, creating **modern UIs**, and continuously learning to become better every day.
 
