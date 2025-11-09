@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm M. Ahmed</h1>
-<h3 align="center">Frontend Developer from Karachi | Passionate Web Designer | Learner at Zaitoon Ashraf IT Park</h3>
+<h3 align="center">Full Stack Developer from Karachi | Passionate Web Designer & Developer | Learner at Zaitoon Ashraf IT Park | Syalani Mass IT Training Program (SMIT)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmed0888&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub profile views" />
