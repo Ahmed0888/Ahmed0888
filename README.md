@@ -17,7 +17,7 @@ I'm committed to writing **clean code**, creating **modern UIs**, and continuous
 
 ### 🎯 Keywords That Describe Me
 
-`Frontend Developer Karachi` • `HTML CSS JavaScript Projects` • `Clean UI Designer & Developer` • `Modern Web Layouts` • `Ahmed0888 GitHub` • `Zaitoon Ashraf IT Park Developer` • `Sylani Mass IT Training Program (SMIT)`
+`Frontend Developer Karachi` • `HTML CSS JavaScript Projects` • `Clean UI Designer & Developer` • `Modern Web Layouts` • `Ahmed0888 GitHub` • `Zaitoon Ashraf IT Park Developer` • `Sylani Mass IT Training Program (SMIT)` • `Full Stack Developer`
 
 ---
 
