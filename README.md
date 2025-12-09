@@ -79,13 +79,14 @@ Alongside web development, I have hands-on experience in **Digital Marketing (Me
 
 ---
 
-### 📝 Full-Stack Blog with Admin Dashboard
-- User authentication & role-based access  
-- CRUD operations with MongoDB  
-- Admin content management panel  
-- Secure backend APIs  
-
-🔗 GitHub Repo: [Your Repo Link Here](#)
+### 📝 Full-Stack Blog post Dashboard with Signup and Login Dashboard
+- Full-Stack Blog Post Dashboard (LocalStorage)
+- User signup & login functionality using LocalStorage
+- Create, edit, and delete blog posts
+- Simple user interface for managing posts
+- No backend database; all data stored locally in browser
+🔗 GitHub Repo: [(https://github.com/Ahmed0888/MiniBlog-Auth.git)](https://github.com/Ahmed0888/MiniBlog-Auth.git)
+🔗 Live Demo :([https://ahmed0888.github.io/MiniBlog-Auth/](https://ahmed0888.github.io/MiniBlog-Auth/)
 
 ---
 
@@ -130,22 +131,24 @@ Alongside web development, I have hands-on experience in **Digital Marketing (Me
 | 📚 SMIT Training | MERN Stack (Ongoing) | 2025 |
 
 ---
-
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed0888&show_icons=true&theme=radical&include_all_commits=true&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed0888&layout=compact&theme=radical&hide_border=false" width="42%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed0888&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed0888&theme=radical&hide_border=false" width="100%" />
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Ahmed0888&style=flat-square&color=brightgreen" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Ahmed0888?style=social" />
+<div align="center">
+  <img src="https://img.shields.io/badge/⭐%20Stars-25%2B-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%9A%20Repos-25%2B-important?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E2%9C%A8%20Commits-9%2B%20months-green?style=for-the-badge&logo=git-commit&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A7%20Deployed-Vercel-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
+<div align="center" style="padding: 20px 0;">
+  <span style="background: linear-gradient(90deg, #3DDC84, #00d4ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.2em; font-weight: bold;">
+    🚀 25+ Projects | 9+ Months Consistent Coding | Live Deployments
+  </span>
+</div>
 ---
 
 ## 📚 Learning Journey
