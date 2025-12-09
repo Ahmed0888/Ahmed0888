@@ -51,7 +51,7 @@ Alongside web development, I have hands-on experience in **Digital Marketing (Me
 ### 📊 Additional Skills
 - Digital Marketing (Meta Ads – campaign setup & strategies)
 - Search Engine Optimization (SEO)
-- IoT & Hardware Projects (Arduino, ESP32)
+
 
 ---
 
@@ -67,16 +67,16 @@ Alongside web development, I have hands-on experience in **Digital Marketing (Me
 
 ## ✨ Featured Projects
 
-### 🔥 AI Resume Analyzer — **Signature Project**
-**Full-Stack MERN Application**
-- Modular frontend & backend architecture
-- Resume parsing, scoring & analysis logic
-- Authentication, APIs & database integration
-- API-based communication
-- Production deployment on Vercel  
+### 🔥 AI Resume Analyzer & Job Tracker — **Signature Project**
 
-🔗 **Live Demo:**  
-https://ai-resume-analyzer-frontend-navy.vercel.app/
+- Full-Stack MERN Application (Solo Project)
+- Designed and developed a full-stack web application to help job seekers analyze resumes and track job applications
+- Built a modular frontend (Html, Css , Js ) and RESTful backend (Node.js & Express)
+- Implemented resume parsing, scoring & keyword-based analysis logic using JavaScript
+- Integrated authentication & secure APIs with database storage (MongoDB / Supabase)
+- Added Job Tracker system to manage applications, statuses & progress
+- Deployed production-ready build on Vercel with environment configuration
+🔗 Live Demo: https://ai-resume-analyzer-frontend-navy.vercel.app/
 
 ---
 
@@ -94,6 +94,18 @@ https://ai-resume-analyzer-frontend-navy.vercel.app/
 - Real-world coding challenges
 - Continuous improvement through multiple iterations
 
+### 🚀 Modern Next.js Landing Page — **Frontend Project**
+
+- Built a modern landing page using Next.js & Tailwind CSS
+- Responsive design across desktop, tablet & mobile devices
+- Component-based architecture for scalable frontend code
+- Implemented optimized images & assets using Next.js Image component
+- EmailJS integration: Join Now button collects user form data and sends email notifications
+- Deployed production-ready build on Netlify
+
+🔗 Live Demo: (https://muhammadahmedhashmi.netlify.app/)
+
+🔗 GitHub Repository: (https://github.com/Ahmed0888/Nextjs-project.git)
 ---
 
 ## 📚 Education & Training
@@ -130,14 +142,17 @@ HTML • CSS • JavaScript • Bootstrap • Tailwind • React • Node • Mo
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed0888&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed0888&layout=compact&theme=radical&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed0888&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=1800" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed0888&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmed0888&style=flat-square&color=brightgreen" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Ahmed0888?style=social" />
 </div>
+
 
 ---
 
@@ -161,5 +176,9 @@ HTML • CSS • JavaScript • Bootstrap • Tailwind • React • Node • Mo
 ⭐ *Feel free to explore my repositories or connect for collaboration & opportunities.*
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing!;Open+to+Internships+Now!" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1300&color=3DDC84&center=true&vCenter=true&width=480&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing!;Open+to+Internships+Now!" 
+    alt="Thanks SVG" 
+  />
 </div>
+
