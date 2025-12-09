@@ -19,10 +19,10 @@
 
 ## 🚀 About Me
 
-I am a **motivated web developer** currently training in **MERN Stack Web Development** at **Saylani Mass IT Training (SMIT)**.  
+I am a **motivated Frontend Web Developer** currently training in **MERN Stack Web Development** at **Saylani Mass IT Training (SMIT)**.  
 I enjoy transforming designs into **responsive, user-friendly interfaces** and building **full-stack projects** to strengthen my backend understanding.
 
-Alongside web development, I have hands-on experience in **Digital Marketing (Meta Ads)** and **SEO**, which helps me build products with both **technical and business perspectives**.
+Alongside web development, I have hands-on experience in **Digital Marketing (Meta Ads)** and **SEO**, allowing me to build products with both **technical and business perspectives**.
 
 ---
 
@@ -49,8 +49,8 @@ Alongside web development, I have hands-on experience in **Digital Marketing (Me
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 📊 Additional Skills
-- Digital Marketing (Meta Ads – campaigns setups and strategies)
-- Search Engine optimization (SEO)
+- Digital Marketing (Meta Ads – campaign setup & strategies)
+- Search Engine Optimization (SEO)
 - IoT & Hardware Projects (Arduino, ESP32)
 
 ---
@@ -58,9 +58,10 @@ Alongside web development, I have hands-on experience in **Digital Marketing (Me
 ## 🏆 Achievements
 
 🥇 **1st Prize – STEAM Awards (District Level)**  
-- Built a **Surveillance Remote-Controlled Car** using **Arduino & ESP-CAM**
-- Implemented **live video streaming & wireless control**
-- Recognized for innovation & practical implementation
+- Built a **Surveillance Remote-Controlled Car**
+- Technologies: **Arduino, ESP32-CAM**
+- Features: **Live video streaming & wireless control**
+- Recognized for innovation and real-world implementation
 
 ---
 
@@ -68,20 +69,30 @@ Alongside web development, I have hands-on experience in **Digital Marketing (Me
 
 ### 🔥 AI Resume Analyzer — **Signature Project**
 **Full-Stack MERN Application**
-- Frontend & backend separation
-- Resume analysis logic using JavaScript
-- Demonstrates authentication, APIs & database integration  
-🔗 [https://github.com/Ahmed0888/Full-Stack-Ai-Resume-Analyzer](https://ai-resume-analyzer-frontend-navy.vercel.app/)
+- Modular frontend & backend architecture
+- Resume parsing, scoring & analysis logic
+- Authentication, APIs & database integration
+- API-based communication
+- Production deployment on Vercel  
+
+🔗 **Live Demo:**  
+https://ai-resume-analyzer-frontend-navy.vercel.app/
+
+---
 
 ### 📝 Full-Stack Blog with Admin Dashboard
-- Authentication & role-based access
+- User authentication & role-based access
 - CRUD operations with MongoDB
-- Admin content management system
+- Admin content management panel
+- Secure backend APIs
+
+---
 
 ### ⚡ SMIT Hackathon & Mini Projects
 - JavaScript logic & DOM manipulation
-- Local Storage based applications
-- Real-world practice through coding challenges
+- LocalStorage-based applications
+- Real-world coding challenges
+- Continuous improvement through multiple iterations
 
 ---
 
@@ -95,11 +106,60 @@ HTML • CSS • JavaScript • Bootstrap • Tailwind • React • Node • Mo
 
 ---
 
+### 🎯 SMIT Hackathon Projects
+🔗 https://ahmed0888.github.io/SMIT-Mini-Hackathon/
+
+**Hackathon Award-Winning Social Platform**
+- Responsive UI with Bootstrap & modern CSS
+- LocalStorage for posts, comments & likes
+- Like & share functionality
+- Multiple hackathon versions showing consistency
+
+---
+
+## 🏆 Achievements & Recognition
+
+| Award / Event | Achievement | Year |
+|--------------|------------|------|
+| 🥇 STEAM Awards | 1st Prize – District Level (IoT Car) | 2024 |
+| 🎓 SMIT Coding Night | Hackathon Participant & Certificate | 2025 |
+| 📚 SMIT Training | MERN Stack (Ongoing) | 2025 |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed0888&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed0888&layout=compact&theme=radical&hide_border=true" width="42%" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed0888&style=flat-square&color=brightgreen" />
+  <img src="https://img.shields.io/github/followers/Ahmed0888?style=social" />
+</div>
+
+---
+
+## 📚 Learning Journey
+
+- Started with HTML, CSS & JavaScript fundamentals
+- Converted Figma designs into responsive UIs
+- Strengthening backend skills with Node.js & MongoDB
+- Advancing in React & component-based architecture
+- Practicing deployment with Vercel
+
+---
+
 ## 📬 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/m-ahmedhashmi/
-- 📧 Email: mahmed030888@gmail.com
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/m-ahmedhashmi/
+- 📧 **Email:** mahmed030888@gmail.com
 
 ---
 
 ⭐ *Feel free to explore my repositories or connect for collaboration & opportunities.*
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing!;Open+to+Internships+Now!" />
+</div>
