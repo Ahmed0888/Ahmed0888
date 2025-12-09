@@ -51,16 +51,16 @@ Alongside web development, I have hands-on experience in **Digital Marketing (Me
 ### 📊 Additional Skills
 - Digital Marketing (Meta Ads – campaign setup & strategies)
 - Search Engine Optimization (SEO)
-
+- IoT & Hardware Projects (Arduino, ESP32)
 
 ---
 
 ## 🏆 Achievements
 
 🥇 **1st Prize – STEAM Awards (District Level)**  
-- Built a **Surveillance Remote-Controlled Car**
-- Technologies: **Arduino, ESP32-CAM**
-- Features: **Live video streaming & wireless control**
+- Built a **Surveillance Remote-Controlled Car**  
+- Technologies: **Arduino, ESP32-CAM**  
+- Features: **Live video streaming & wireless control**  
 - Recognized for innovation and real-world implementation
 
 ---
@@ -68,71 +68,63 @@ Alongside web development, I have hands-on experience in **Digital Marketing (Me
 ## ✨ Featured Projects
 
 ### 🔥 AI Resume Analyzer & Job Tracker — **Signature Project**
-
-- Full-Stack MERN Application (Solo Project)
-- Designed and developed a full-stack web application to help job seekers analyze resumes and track job applications
-- Built a modular frontend (Html, Css , Js ) and RESTful backend (Node.js & Express)
-- Implemented resume parsing, scoring & keyword-based analysis logic using JavaScript
-- Integrated authentication & secure APIs with database storage (MongoDB / Supabase)
-- Added Job Tracker system to manage applications, statuses & progress
-- Deployed production-ready build on Vercel with environment configuration
-🔗 Live Demo: https://ai-resume-analyzer-frontend-navy.vercel.app/
+- Full-Stack MERN Application (Solo Project)  
+- Designed and developed a full-stack web application to help job seekers analyze resumes and track job applications  
+- Built a modular frontend (HTML, CSS, JS) and RESTful backend (Node.js & Express)  
+- Implemented resume parsing, scoring & keyword-based analysis logic using JavaScript  
+- Integrated authentication & secure APIs with database storage (MongoDB / Supabase)  
+- Added Job Tracker system to manage applications, statuses & progress  
+- Deployed production-ready build on Vercel with environment configuration  
+🔗 Live Demo: [https://ai-resume-analyzer-frontend-navy.vercel.app/](https://ai-resume-analyzer-frontend-navy.vercel.app/)
 
 ---
 
 ### 📝 Full-Stack Blog with Admin Dashboard
-- User authentication & role-based access
-- CRUD operations with MongoDB
-- Admin content management panel
-- Secure backend APIs
+- User authentication & role-based access  
+- CRUD operations with MongoDB  
+- Admin content management panel  
+- Secure backend APIs  
+
+🔗 GitHub Repo: [Your Repo Link Here](#)
 
 ---
 
 ### ⚡ SMIT Hackathon & Mini Projects
-- JavaScript logic & DOM manipulation
-- LocalStorage-based applications
-- Real-world coding challenges
-- Continuous improvement through multiple iterations
+- JavaScript logic & DOM manipulation  
+- LocalStorage-based applications  
+- Real-world coding challenges  
+- Continuous improvement through multiple iterations  
+
+🔗 Hackathon Projects: [SMIT Mini Hackathon](https://ahmed0888.github.io/SMIT-Mini-Hackathon/)
+
+---
 
 ### 🚀 Modern Next.js Landing Page — **Frontend Project**
+- Built a modern landing page using **Next.js & Tailwind CSS**  
+- Responsive design across desktop, tablet & mobile devices  
+- Component-based architecture for scalable frontend code  
+- Implemented optimized images & assets using Next.js Image component  
+- **EmailJS integration**: `Join Now` button collects user form data and sends email notifications  
+- Deployed production-ready build on Netlify  
 
-- Built a modern landing page using Next.js & Tailwind CSS
-- Responsive design across desktop, tablet & mobile devices
-- Component-based architecture for scalable frontend code
-- Implemented optimized images & assets using Next.js Image component
-- EmailJS integration: Join Now button collects user form data and sends email notifications
-- Deployed production-ready build on Netlify
+🔗 Live Demo: [https://muhammadahmedhashmi.netlify.app/](https://muhammadahmedhashmi.netlify.app/)  
+🔗 GitHub Repo: [Next.js Landing Page](https://github.com/Ahmed0888/Nextjs-project.git)
 
-🔗 Live Demo: (https://muhammadahmedhashmi.netlify.app/)
-
-🔗 GitHub Repository: (https://github.com/Ahmed0888/Nextjs-project.git)
 ---
 
 ## 📚 Education & Training
 
-🎓 **Intermediate (Computer Science)** — SSAT Degree College  
-📅 2023 – 2025  
-
-💻 **MERN Stack Web Development (In Progress)** — SMIT  
-HTML • CSS • JavaScript • Bootstrap • Tailwind • React • Node • MongoDB
-
----
-
-### 🎯 SMIT Hackathon Projects
-🔗 https://ahmed0888.github.io/SMIT-Mini-Hackathon/
-
-**Hackathon Award-Winning Social Platform**
-- Responsive UI with Bootstrap & modern CSS
-- LocalStorage for posts, comments & likes
-- Like & share functionality
-- Multiple hackathon versions showing consistency
+| Degree/Training | Institution | Status | Year |
+|-----------------|------------|--------|------|
+| 🎓 Intermediate (Computer Science) | SSAT Degree College | In Progress | 2023–2025 |
+| 💻 MERN Stack Web Development | Saylani Mass IT Training (SMIT) | Ongoing | 2025 |
 
 ---
 
 ## 🏆 Achievements & Recognition
 
 | Award / Event | Achievement | Year |
-|--------------|------------|------|
+|---------------|------------|------|
 | 🥇 STEAM Awards | 1st Prize – District Level (IoT Car) | 2024 |
 | 🎓 SMIT Coding Night | Hackathon Participant & Certificate | 2025 |
 | 📚 SMIT Training | MERN Stack (Ongoing) | 2025 |
@@ -142,34 +134,34 @@ HTML • CSS • JavaScript • Bootstrap • Tailwind • React • Node • Mo
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed0888&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=1800" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed0888&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed0888&show_icons=true&theme=radical&include_all_commits=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed0888&layout=compact&theme=radical&hide_border=false" width="42%" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed0888&theme=radical&hide_border=false" width="100%" />
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Ahmed0888&style=flat-square&color=brightgreen" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/Ahmed0888?style=social" />
 </div>
 
-
 ---
 
 ## 📚 Learning Journey
 
-- Started with HTML, CSS & JavaScript fundamentals
-- Converted Figma designs into responsive UIs
-- Strengthening backend skills with Node.js & MongoDB
-- Advancing in React & component-based architecture
+- Started with HTML, CSS & JavaScript fundamentals  
+- Converted Figma designs into responsive UIs  
+- Strengthening backend skills with Node.js & MongoDB  
+- Advancing in React & component-based architecture  
 - Practicing deployment with Vercel
 
 ---
 
 ## 📬 Connect With Me
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/m-ahmedhashmi/
-- 📧 **Email:** mahmed030888@gmail.com
+- 🔗 LinkedIn: [https://www.linkedin.com/in/m-ahmedhashmi/](https://www.linkedin.com/in/m-ahmedhashmi/)  
+- 📧 Email: [mahmed030888@gmail.com](mailto:mahmed030888@gmail.com)
 
 ---
 
@@ -181,4 +173,3 @@ HTML • CSS • JavaScript • Bootstrap • Tailwind • React • Node • Mo
     alt="Thanks SVG" 
   />
 </div>
-
