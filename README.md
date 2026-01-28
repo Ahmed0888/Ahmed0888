@@ -117,7 +117,7 @@ Alongside web development, I have hands-on experience in **Digital Marketing (Me
 
 | Degree/Training | Institution | Status | Year |
 |-----------------|------------|--------|------|
-| 🎓 Intermediate (Computer Science) | SSAT Degree College | In Progress | 2023–2025 |
+| 🎓 Intermediate (Computer Science) | SSAT Degree College | Completed | 2023–2025 |
 | 💻 MERN Stack Web Development | Saylani Mass IT Training (SMIT) | Ongoing | 2025 |
 
 ---
