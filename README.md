@@ -108,20 +108,7 @@ Collection of rapid-build challenges focused on JS logic, DOM manipulation, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmed0888&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed0888&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ahmed0888&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed0888&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed0888&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="180"/>
 
 </div>
 
