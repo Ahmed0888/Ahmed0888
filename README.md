@@ -95,12 +95,7 @@ Collection of rapid-build challenges focused on JS logic, DOM manipulation, and 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed0888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed0888&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed0888&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <div align="center">
