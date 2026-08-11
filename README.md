@@ -104,17 +104,7 @@ Collection of rapid-build challenges focused on JS logic, DOM manipulation, and 
 
 <br/>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed0888&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="180"/>
-
-</div>
-
-<br/>
-
-## 🏅 Achievements
 
 > 🥇 **1st Prize — STEAM Awards, District Level (2024)**
 > Built a surveillance remote-controlled car (Arduino + ESP32-CAM) with live video streaming and wireless control — recognized for innovation in embedded systems engineering.
